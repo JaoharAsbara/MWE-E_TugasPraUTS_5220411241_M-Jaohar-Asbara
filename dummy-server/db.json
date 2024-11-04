@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "9d33",
+      "name": "Jaohar Asbara",
+      "email": "m.jaoharasbara@gmail.com",
+      "password": "bara123",
+      "phone": "089527148739"
+    },
+    {
+      "id": "3ffc",
+      "name": "Yi Sun Shin",
+      "email": "yisunshin@mlbb.com",
+      "password": "mlbb123",
+      "phone": "05816816816"
+    }
+  ]
+}
